@@ -1,1 +1,3 @@
-This was one of my first projects, it is a simple tool to ask people to type in Pizza toppings and then tally them up at the end so that everyone can get the toppings they want at a party without the hassel of trying to hear over people shouting.
+#First Programs Repo
+
+This repository holds some of my first and oldest projects. It is primarily used to look back on and the corresponding code on my computer has been deleted to save space for newer programs. Although someday I may return to fix up one of these older projects. 
