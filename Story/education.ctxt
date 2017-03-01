@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=gen\ age
+comment0.target=education(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.Boolean\ getCollege()
+comment2.params=
+comment2.target=java.lang.Boolean\ getGen()
+comment2.text=Get\ the\ gender\ of\ the\ pupil
+numComments=3
